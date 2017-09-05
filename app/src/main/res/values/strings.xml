@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">BusITO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- TITULOS DE TAB -->
+    <string name="titulo_tab_perfil">PERFIL</string>
+    <string name="titulo_tab_mapa">MAPA</string>
+    <string name="titulo_tab_bus">BUS</string>
+
+    <!-- strings for Auth UI demo activities -->
+    <string name="hint_email">Correo</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar sesión</string>
+    <string name="action_sign_in_google">Iniciar sesión con google</string>
+    <string name="action_sign_in_ime">Loguear</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="etiqueta_info_usuario">INFORMACIÓN DEL USUARIO</string>
+    <string name="no_message_text">No hay autobuses</string>
+    <string name="etiqueta_datos_usuario">DATOS PERSONALES</string>
+    <string name="cerrar_boton">CERRAR</string>
+    <string name="info_text">Información del usuario</string>
+    <string name="nombre_input">Nombre de tutor</string>
+    <string name="phone_input">Número de Emergencias</string>
+    <string name="guardar_boton">GUARDAR</string>
+    <string name="address_input">Dirección</string>
+    <string name="etiqueta_datos_Bus">AUTOBUS</string>
+    <string name="roll_conductor">conductor</string>
+    <string name="autobuses">autobuses</string>
+
+</resources>
